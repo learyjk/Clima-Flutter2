@@ -5,7 +5,6 @@ import 'package:clima/utilities/keys.dart';
 
 import '../utilities/constants.dart';
 import 'networking.dart';
-import 'networking.dart';
 
 class WeatherModel {
   Future<dynamic> getCityWeather(String cityName) async {
